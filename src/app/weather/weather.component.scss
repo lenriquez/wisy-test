@@ -1,0 +1,10 @@
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .canvas-container {
+    width: 80rem;
+  }
+}
